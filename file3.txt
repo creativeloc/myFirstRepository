@@ -1,2 +1,2 @@
 This is file3.txt
-A
+A new line added
